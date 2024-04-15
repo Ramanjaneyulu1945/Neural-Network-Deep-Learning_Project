@@ -4,6 +4,6 @@ Ramanjaneyulu saladi
 CRN: 23441
 
 Team members:
-Jethin Sai Chilukuri
-Sangam Sai Prakash Reddy
+Jethin Sai Chilukuri,
+Sangam Sai Prakash Reddy,
 Rajakala Jaidi
